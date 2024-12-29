@@ -1,6 +1,6 @@
 # CODSOFT
 Internship
-- Mobile App Signup Flow
+Mobile App Signup Flow
 - Project description:
 This is a simple design to create three pages, which are a welcome page, a sign in page, and a sign up page.
 The inputs that the user must enter are the username, email, and password to create an account for him on the application.
