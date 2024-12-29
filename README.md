@@ -13,4 +13,4 @@ Email Template
 - Project description:
 The project is a kind of email templates which is email newsletter template where you display products and offers on certain products if you reach a certain price limit and through which you can buy them by clicking on Buy Now and here I offer great and attractive flower bouquet.
 - Project link:
-- [Email Template](https://www.figma.com/design/045ByE93My2lRPIEIPCGmp/Email-Templates?node-id=0-1&t=CklMaoIBE3XSLGo5-1)
+[Email Template](https://www.figma.com/design/045ByE93My2lRPIEIPCGmp/Email-Templates?node-id=0-1&t=CklMaoIBE3XSLGo5-1)
